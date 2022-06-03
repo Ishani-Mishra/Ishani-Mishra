@@ -1,8 +1,13 @@
-### Hi there ![video](https://media4.giphy.com/media/1jf43Ml3ckkoHO7Fev/giphy360p.mp4?cid=ecf05e471htykljewl0pqglv156s4shdn7wgdihe9yww4oxr&rid=giphy360p.mp4&ct=v.mp4)
+### Hi there!!
+https://user-images.githubusercontent.com/71793856/171879476-383c8ca3-6d84-411d-b248-6e03243683cc.mp4
 
 
 <!--
 **Ishani-Mishra/Ishani-Mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+https://user-images.githubusercontent.com/71793856/171879476-383c8ca3-6d84-411d-b248-6e03243683cc.mp4
+
 
 Here are some ideas to get you started:
 
