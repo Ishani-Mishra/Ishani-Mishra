@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there https://media4.giphy.com/media/1jf43Ml3ckkoHO7Fev/giphy360p.mp4?cid=ecf05e471htykljewl0pqglv156s4shdn7wgdihe9yww4oxr&rid=giphy360p.mp4&ct=v
+
 
 <!--
 **Ishani-Mishra/Ishani-Mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩‍🔧🦾 Sophomore year at VIT, persuing Bachelor's in technology in Mechanical engineering. 
+
+- ✨✨ My core interests lie in refrigeration and air conditioning, robotics and computational fluid dynamics.
+
+- 💻🔖 I also like to explore other domains and find web development, UI design, UX research and web design super fun.
+
+- 🚧🚧 I enjoy collaborating on projects more than working all by myself.
+
