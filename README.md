@@ -1,6 +1,5 @@
 ### Hi there!!
-https://user-images.githubusercontent.com/71793856/171879476-383c8ca3-6d84-411d-b248-6e03243683cc.mp4
-
+https://media.giphy.com/media/a1QLZUUtCcgyA/giphy.gif
 
 <!--
 **Ishani-Mishra/Ishani-Mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
