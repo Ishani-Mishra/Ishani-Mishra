@@ -14,7 +14,7 @@ I’m a Mechanical Engineer currently at Schlumberger in Pune, where I work on p
 
 - 📫 How to reach me **ishani1407@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a-TaFnUVApwv7Dy62hveTkHJStZ18s_K/view?usp=sharing](https://drive.google.com/file/d/1a-TaFnUVApwv7Dy62hveTkHJStZ18s_K/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/drive/folders/1dWaNDJzHCtLS1jpZvs7G74MjceHVgNy5?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
