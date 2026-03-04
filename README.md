@@ -2,13 +2,7 @@
 
 ![ISHANI MISHRA (2)](https://user-images.githubusercontent.com/71793856/171882312-e0777c88-af85-4976-8647-cf56ff51332b.png)
 
-- 👩‍🔧🦾 Sophomore year at VIT, persuing Bachelor's in technology in Mechanical engineering. 
-
-- ✨✨ My core interests lie in refrigeration and air conditioning, robotics and computational fluid dynamics.
-
-- 💻🔖 I also like to explore other domains and find web development, UI design, UX research and web design super fun.
-
-- 🚧🚧 I enjoy collaborating on projects more than working all by myself.
+I’m a Mechanical Engineer currently at Schlumberger in Pune, where I work on product rationalisation, rapid-response tool projects and supplier qualification for completions accessories — having identified and redesigned high-runner components, developed over 20 part-&-process plans, and mentored teams in 3D-printed prototypes. With published research on alcohol-fuels and ongoing work in wind-turbine and Ti-alloy wear studies, I bring skills in SolidWorks, Creo Parametric, ANSYS, COMSOL, GD&T, Python/C++, and lean manufacturing — all driven by my mission to engineer sustainable, high-performance solutions in energy, renewables and mechanical systems. Let’s connect if you’re building next-gen tools or materials-driven solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-mishra" /> </p>
 
